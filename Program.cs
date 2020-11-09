@@ -10,6 +10,8 @@ namespace QLSV
     {
         static void Main(string[] args)
         {
+            HELLO
+                
         }
     }
 }
